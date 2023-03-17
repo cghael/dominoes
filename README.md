@@ -47,6 +47,7 @@ To make a move, the player has to specify the action they want to take. In this 
 For example:
 
 `-6` : Take the sixth domino and place it on the left side of the snake.
+
 `6` : Take the sixth domino and place it on the right side of the snake.
 `0` : Take an extra piece from the stock (if it's not empty) and skip a turn or simply skip a turn if the stock is already empty by this point.
 
